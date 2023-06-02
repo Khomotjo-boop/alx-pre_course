@@ -1,3 +1,1 @@
-My first readme
-echo 'My first readme' > README.md
-^C
+another readme fot 0x01.git
